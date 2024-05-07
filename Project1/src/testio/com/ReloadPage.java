@@ -15,8 +15,8 @@ public class ReloadPage {
 		WebDriver driver = new ChromeDriver();
 		String url = "https://tester.test.io/";
 		String xpathLinkedin = "/html/body/main/div[2]/div[2]/div/div[3]/div[2]/div/a";
-		String UserName = "thanhhoa280499@gmail.com";
-		String PassWord = "hoa2021998";
+		String UserName = "acb@gmail.com";
+		String PassWord = "123456";
 		String xpathLoginButton = "/html/body/div/main/div[2]/form/div[3]/button";
 		String xpathUser = "//input[@id='username']";
 		String xpathPass = "//input[@id='password']";
